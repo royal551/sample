@@ -1,0 +1,5 @@
+
+SELECT COUNT(*), AVG(column_name), SUM(column_name), MIN(column_name), MAX(column_name)
+FROM table_name
+WHERE condition;
+
