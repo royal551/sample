@@ -1,0 +1,12 @@
+greet(): A simple function that prints a greeting message.
+checkEvenOdd(int number): Takes an integer as input and checks if it's even or odd.
+Main Method: This is where the program starts running.
+We call greet() to print a greeting.
+We declare an integer and check if it’s even or odd using the checkEvenOdd() method.
+A loop prints numbers from 1 to 5.
+Finally, we demonstrate iterating over an array using an enhanced for loop.
+This is a basic Java program that covers method calls, conditionals, loops, and arrays.
+
+
+
+
